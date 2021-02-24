@@ -1,0 +1,2 @@
+# Metodo-Simplex
+método simplex 
